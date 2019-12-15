@@ -14,8 +14,8 @@ module.exports = {
       },
       resolve: `gatsby-source-contentful`,
       options: {
-        spaceId: `your_space_id`,
-        accessToken: 'your_access_token',
+        spaceId: `fx15bwas45m9`,
+        accessToken: 'leJv2CaYYCwdVa4Y8PM7jEAmT6905J6AQQsyOpcR908',
       },
     },
     `gatsby-transformer-sharp`,
